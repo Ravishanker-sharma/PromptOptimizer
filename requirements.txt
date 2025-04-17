@@ -1,0 +1,35 @@
+faiss-cpu==1.10.0
+
+# Google SDKs and Gemini
+google==3.0.0
+google-adk==0.1.0
+google-ai-generativelanguage==0.6.15
+google-api-core==2.24.2
+google-api-python-client==2.166.0
+google-auth==2.38.0
+google-auth-httplib2==0.2.0
+google-cloud-aiplatform==1.88.0
+google-cloud-bigquery==3.31.0
+google-cloud-core==2.4.3
+google-cloud-resource-manager==1.14.2
+google-cloud-secret-manager==2.23.2
+google-cloud-speech==2.31.1
+google-cloud-storage==2.19.0
+google-cloud-trace==1.16.1
+google-crc32c==1.7.1
+google-genai==1.10.0
+google-generativeai==0.8.4
+google-resumable-media==2.7.2
+googleapis-common-protos==1.69.2
+googletrans==4.0.0rc1
+grpc-google-iam-v1==0.14.2
+
+# LangChain and related tools
+langchain==0.3.23
+langchain-community==0.3.21
+langchain-core==0.3.51
+langchain-google-genai==2.0.10
+langchain-text-splitters==0.3.8
+
+# Vector embeddings
+sentence-transformers==4.0.2
