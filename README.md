@@ -76,7 +76,7 @@ port = "5432"
 ✅ Ensure the table textdata is created automatically when the system initializes.
 
 ## 🚀 Usage
-You can interact with the system by calling the call_agent() function with a user query:
+You can interact with the system by calling the call_agent() or using a terminal command function with a user query:
 ```bash
 # Terminal command for ADK UI kit -- Best
 adk web {directory_name}
@@ -100,7 +100,7 @@ print(response)
 🤖 Returns a highly personalized AI response
 
 ## 🧰 Tools & Libraries Used
-Google Generative AI SDK
+Google ADK
 
 FAISS - Facebook AI Similarity Search
 
